@@ -13,7 +13,6 @@ EquivalentBuiltInFunction: _ASIM_GetWatchlistRaw
 FunctionParams:
   - Name: watchlist
     Type: string
-    Default: '*'
   - Name: keys
     Type: dynamic
     Default: dynamic([])
